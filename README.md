@@ -1,6 +1,6 @@
 # Marvel Database
 
-A MySQL database of Marvel projects, timelines, and characters, developed for my IN1013 Databases coursework. The database allows you to view and sort information, such as movies in release or timeline order and which character appeared in which projects.
+A MySQL database of Marvel _projects_, _timelines_, and _characters_, developed for my IN1013 Databases coursework. The database allows you to view and sort information, such as movies in release or timeline order and which character appeared in which projects.
 
 ## Learning Outcomes
 
