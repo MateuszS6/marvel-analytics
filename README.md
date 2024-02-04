@@ -4,7 +4,7 @@ A MySQL database of Marvel _projects_, _timelines_, and _characters_, developed 
 
 ## Learning Outcomes
 
-* Expanded existing SQL knowledge
-* Learned advanced database concepts and SQL commands
-* Created, inserted into, and deleted tables and views
-* Manipulated data using complex SQl queries
+* Expanded SQL knowledge
+* Advanced database concepts and SQL commands
+* Create, insert, and delet tables and views
+* Manipulate data using complex SQl queries
