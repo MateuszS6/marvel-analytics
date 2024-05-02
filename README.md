@@ -2,14 +2,22 @@
 
 Welcome to the Marvel Database, a comprehensive MySQL database crafted for the IN1013 Databases coursework. This repository contains structured data about Marvel _projects_, _timelines_, and _characters_, designed to facilitate the exploration and sorting of information related to Marvel movies, their release sequences, timeline orders, and the appearances of various characters in these projects.
 
+## Coursework Details
+
+- **Course**: IN1013 Databases
+- **Institution**: City, University of London
+- **Term**: Winter 2022
+
 ## Screenshots
 
 ### Projects Table
+
 ![projects-table](images/projects-table.PNG)
 
 This screenshot displays the 'Projects' table from the Marvel Database, showcasing a detailed view of various Marvel projects such as movies and series. The table includes critical information such as the title, release year, box office earnings, and timeline order. This view helps users quickly understand the scope and details of each project within the Marvel Cinematic Universe, illustrating the database's capability to organize and present complex data efficiently.
 
 ### ER Diagram
+
 ![er-diagram](images/er-diagram.jpg)
 
 This image presents the Entity-Relationship (ER) diagram of the Marvel Database, highlighting the structured relationships between different entities such as Studios, Projects, Characters, and Crew Members. The diagram provides a clear overview of how the tables are interconnected, making it easier for developers and database administrators to understand the data model and relationships underlying the database architecture. It serves as an essential visual aid for those looking to extend, modify, or query the database.
