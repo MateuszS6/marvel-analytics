@@ -47,5 +47,5 @@ To get started with the Marvel Database, clone this repository and import the `m
 mysql -u addf125 -p
 CREATE DATABASE marvel_db;
 USE marvel_db;
-SOURCE MarvelDatabase.sql;
+SOURCE marvel_db.sql;
 ```
