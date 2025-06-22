@@ -1,4 +1,4 @@
-# Marvel Analytics
+# Marvel SQL Analytics
 
 Welcome to the Marvel Database, a comprehensive MySQL database crafted for the IN1013 Databases coursework. This repository contains structured data about Marvel _projects_, _timelines_, and _characters_, designed to facilitate the exploration and sorting of information related to Marvel movies, their release sequences, timeline orders, and the appearances of various characters in these projects.
 
